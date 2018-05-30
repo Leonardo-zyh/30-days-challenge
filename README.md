@@ -18,7 +18,7 @@
 
 - [day-09-对象提取](https://github.com/cinyearchan/30-days-challenge/issues/9)
 
-- [day-10-ajax与响应顺序](https://github.com/cinyearchan/30-days-challenge/issues/11)
+- [day-10-ajax与响应顺序](https://github.com/cinyearchan/30-days-challenge/issues/10)
 
 - [day-11-重复执行函数](https://github.com/cinyearchan/30-days-challenge/issues/11)
 
