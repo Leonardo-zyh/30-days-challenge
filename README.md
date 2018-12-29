@@ -58,7 +58,7 @@
 
 - [day-29-函数节流](https://github.com/cinyearchan/30-days-challenge/issues/29)
 
-- [day-30-生命提升](https://github.com/cinyearchan/30-days-challenge/issues/30)
+- [day-30-声明提升](https://github.com/cinyearchan/30-days-challenge/issues/30)
 
   
 
